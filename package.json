@@ -1,0 +1,19 @@
+{
+  "name": "simple-react-app-with-hooks",
+  "version": "1.0.0",
+  "description": "Simple React App with Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tina-Luk/Simple-React-App-with-Hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tina-Luk/Simple-React-App-with-Hooks/issues"
+  },
+  "homepage": "https://github.com/Tina-Luk/Simple-React-App-with-Hooks#readme"
+}
