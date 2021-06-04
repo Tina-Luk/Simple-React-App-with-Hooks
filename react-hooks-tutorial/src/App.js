@@ -16,7 +16,7 @@ const App = () => {
 
 	return (
 		<div>
-			<div>{loading ? 'loading...' : data}</div>
+			<div>{!data ? '...loading' : data}</div>
 			<div>count: {count}</div>
 			<button onClick={() => setCount((c) => c + 1)}>increment</button>
 
